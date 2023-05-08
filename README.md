@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/clipboard-landing-page_desktop-design.png)
+![](design/clipboard-landing-page_desktop-design.pnh)
 
 
 ### Links
