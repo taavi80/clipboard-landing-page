@@ -216,6 +216,9 @@ footer {
     max-width: 380px;
     margin: auto;
   }
+  .tools-wrapper div:first-child {
+    transform: translateY(11px);
+  }
 
   .logos {
     display: flex;
